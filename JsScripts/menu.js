@@ -1,6 +1,6 @@
 const menuData=[
 {title: 'Home', link: '/index.html'},
-{title: 'Blogposts', link: '/HtmlScripts/blogposts.html'},
+{title: 'Blogposts', link: 'HtmlScripts/blogposts.html'},
 {title: 'Petes Picks', link: '/HtmlScripts/petespicks.html'},
 {title: 'Style Guide', link: '/HtmlScripts/styleGuide.html'},
 {title: 'WireFrames', link: '/HtmlScripts/wireframe.html'},
