@@ -2,9 +2,14 @@ nav ul{
     list-style: none;
 
 }
+nav li{width:5rem ;}
 nav in ul in li{
     font-family: "Poppins", sans-serif;
     display:  inline-block;
+}
+nav a:hover{
+color: inherit;
+
 }
 nav in ul ul{
     font-family: "Poppins", sans-serif;
