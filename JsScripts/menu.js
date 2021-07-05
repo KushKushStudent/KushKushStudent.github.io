@@ -1,11 +1,11 @@
 const menuData=[
 {title: 'Home', link: 'index.html'},
 {title: 'Blogposts', link: 'HtmlScripts/blogposts.html'},
-{title: 'Petes Picks', link: 'kushkushstudent.github.io/HtmlScripts/petespicks.html'},
-{title: 'Style Guide', link: '/kushkushstudent.github.io/HtmlScripts/styleGuide.html'},
-{title: 'WireFrames', link: '/kushkushstudent.github.io/HtmlScripts/wireframe.html'},
-{title: 'About', link: '/kushkushstudent.github.io/HtmlScripts/about.html'},
-{title: 'Contacts', link: '/kushkushstudent.github.io/HtmlScripts/contacts.html'}
+{title: 'Petes Picks', link: 'HtmlScripts/petespicks.html'},
+{title: 'Style Guide', link: 'HtmlScripts/styleGuide.html'},
+{title: 'WireFrames', link: 'HtmlScripts/wireframe.html'},
+{title: 'About', link: 'HtmlScripts/about.html'},
+{title: 'Contacts', link: 'HtmlScripts/contacts.html'}
 
 
 
