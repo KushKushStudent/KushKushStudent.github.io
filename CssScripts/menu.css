@@ -10,8 +10,8 @@ nav ul{
     font-size: 12px;
 }
 nav li{
-    font-family: "Poppins", sans-serif;
-    font-size: 30px;
+    font-family:"https://fonts.googleapis.com/css2?family=Caveat&display=swap";
+    font-size: 20px;
      width:20rem ;}
 
 
@@ -26,6 +26,6 @@ color: inherit;
 
 }
 nav in ul ul{
-    font-family: "Poppins", sans-serif;
+    font-family:"https://fonts.googleapis.com/css2?family=Caveat&display=swap";
  display: name;
 }
