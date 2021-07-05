@@ -1,6 +1,6 @@
 const menuData=[
 {title: 'Home', link: 'index.html'},
-{title: 'Blogposts', link: '/kushkushstudent.github.io/HtmlScripts/blogposts.html'},
+{title: 'Blogposts', link: '/HtmlScripts/blogposts.html'},
 {title: 'Petes Picks', link: '/kushkushstudent.github.io/HtmlScripts/petespicks.html'},
 {title: 'Style Guide', link: '/kushkushstudent.github.io/HtmlScripts/styleGuide.html'},
 {title: 'WireFrames', link: '/kushkushstudent.github.io/HtmlScripts/wireframe.html'},
